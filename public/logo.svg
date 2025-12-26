@@ -1,0 +1,30 @@
+<svg width="120" height="32" viewBox="0 0 120 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circular Emblem with Z -->
+  <g>
+    <!-- Circle outline - split color: top-right gold, bottom-left black -->
+    <path d="M 16 0 A 8 8 0 0 1 24 8" stroke="#E2A16F" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <path d="M 24 8 A 8 8 0 0 1 24 16" stroke="#E2A16F" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <path d="M 24 16 A 8 8 0 0 1 16 16" stroke="#030213" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <path d="M 16 16 A 8 8 0 0 1 16 0" stroke="#030213" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    
+    <!-- Z letter inside circle - top gold, bottom black -->
+    <path d="M 11 6 L 21 6" stroke="#E2A16F" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M 21 6 L 11 12" stroke="#E2A16F" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M 11 12 L 21 12" stroke="#030213" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Wordmark ZEMI - bold blocky letters -->
+  <g>
+    <!-- Z -->
+    <path d="M 32 8 L 40 8 L 40 10 L 34 10 L 40 16 L 40 18 L 32 18 L 32 16 L 38 16 L 32 10 Z" fill="#030213"/>
+    
+    <!-- E (gold) -->
+    <path d="M 44 8 L 52 8 L 52 10 L 46 10 L 46 12 L 51 12 L 51 14 L 46 14 L 46 16 L 52 16 L 52 18 L 44 18 Z" fill="#E2A16F"/>
+    
+    <!-- M -->
+    <path d="M 56 8 L 56 18 L 58 18 L 58 12 L 62 16 L 66 12 L 66 18 L 68 18 L 68 8 L 66 8 L 66 14 L 62 10 L 58 14 L 58 8 Z" fill="#030213"/>
+    
+    <!-- I -->
+    <path d="M 72 8 L 80 8 L 80 10 L 75 10 L 75 16 L 80 16 L 80 18 L 72 18 L 72 16 L 77 16 L 77 10 L 72 10 Z" fill="#030213"/>
+  </g>
+</svg>
