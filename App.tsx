@@ -11,7 +11,7 @@ import { DashboardYoco } from './components/DashboardYoco';
 
 function Home() {
   return (
-    <div className="min-h-screen bg-[#FFF0DD]">
+    <div className="min-h-screen bg-brand-midnight">
       <Navigation />
       <Hero />
       <Features />
